@@ -1,4 +1,4 @@
-# Profit Share(s) Platform
+# Profit Share Platform
 
 Profit Shares Platform is a closed-source (soon to be open-source) conceptual network used to self-regulate "cryptomarkets",
 They can be considered a "controlled" alternative to exchange tokens. These will never become volatile digital assets and remain secured using cryptography. They remain 100% backed at all times by a secondary blockchain asset such as BTC, BTA, ETH and STRAT. Crowdfunding BATA projects using non-expiring, liquid capital profit shares. Profit Shares can offer liquid, stable and consistent returns for investors.
